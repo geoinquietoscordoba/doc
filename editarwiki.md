@@ -60,7 +60,7 @@ En este formato, el siguiente texto
 
 Se visualizaría de esta forma
 
-![Previssualización](./img/wikicode.png "Previssualización")
+![Previssualización](./img/wikiprevisualizacion.png "Previssualización")
 
 Una vez realizado los cambios deben ser guardados. haciendo clik en el botón **Guardar página**
 
