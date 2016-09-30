@@ -6,26 +6,17 @@ La dirección de la wiki es [https://wiki.osgeo.org/wiki/Category:Geoinquietos_C
 
 ![Página en la Wiki de OSGeo](./img/wikigeoinquietosodb.png "Página en la Wiki de OSGeo")
 
-La finalidad de la wiki es dejar constancia de las actividades que el grupo realiza con el fin principal de que esta documentación pueda servir a otros grupos o iniciativas o meramente como archivo o acta de las labores del grupo.
+La finalidad de la wiki es dejar constancia de las actividades del gruoi con el fin principal de que, esta documentación, sirva de archivo o acta de las labores del grupo, e igualmente el de fomentar el conocmiento colectivo pensando en otros grupo locales.
 
-##Añadiendo contenidos
+# Añadiendo contenidos
 
-Para cada reunión o actividadse abre una página en la wiki en su correspondiente categoría. Por [ejemplo](https://wiki.osgeo.org/wiki/Reuni%C3%B3n_8_Geoinquietos_C%C3%B3rdoba), para las reuniones se crea una página con distintos apartados que ofrezcan la máxima información sobre dónde se realizará la reunión, aistestentes, programa y también datos sobre qué es lo que pasó durante la misma.
+Para cada reunión o actividad se abre una página en la wiki en su correspondiente categoría. Por [ejemplo](https://wiki.osgeo.org/wiki/Reuni%C3%B3n_8_Geoinquietos_C%C3%B3rdoba), para las reuniones se crea una página con distintos apartados que ofrezcan la máxima información sobre dónde se realizará la reunión, aistestentes, programa y también datos sobre qué es lo que pasó durante la misma.
 
-Posibles apartados:
-
-- Coordenadas: Fecha, lugar de reunión, páginas relacionadas (FB, Lista, Google+...)
-- Asistentes. Listado de asistentes
-- Programa
-- Información Talleres
-- Temas a tratar
-- Temas tratados
-- Documentos y recursos
 ![Ejemplo de reunión](./img/wikireunion.png "Ejemplo de reunión")
 
 Existe unos apartados (asistentes, recursos, resumen, enlaces) que son necesarios completar de forma grupal entre los asistentes por lo que es necesario tener cuenta en la wiki y editarlos.
 
-## Requisitos
+## Requisitos para editar
 
 El único requisito es darse de alta en la wiki de OSGeo mediante usuario y clave. Para obtener una cuenta ir al siquiente enlace [https://wiki.osgeo.org/wiki/Special:RequestAccount](https://wiki.osgeo.org/wiki/Special:RequestAccount) y completar el formulario.
 
@@ -68,6 +59,10 @@ Una vez realizado los cambios deben ser guardados. haciendo clik en el botón **
 
 ## Subir archivos
 
+Por hacer
+
 ## Crear páginas nuevas
+
+Por hacer
 
 
