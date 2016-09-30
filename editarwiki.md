@@ -57,16 +57,18 @@ Por ejemplo:
 En este formato el siguiente texto
 
 '''
-== Coordenadas ==
-* '''Fecha''':  28 de Septiembre de 2016
-* '''Hora''': 18:30
-* Lugar: [http://www.cosfera.es/ coSfera Centro] Avenida de Cervantes, 6, Córdoba, España. [http://www.openstreetmap.org/?mlat=37.88830&mlon=-4.78424#map=18/37.88830/-4.78424 OSM]  [https://es.foursquare.com/v/cosfera-centro-c%C3%B3rdoba/528ca1e0498ede0a227d2ab7 Foursquare] [http://www.yelp.es/biz/cosfera-centro-c%C3%B3rdoba Yelp]
-* '''Inscripción (no es necesaria)'''
-** Evento en Facebook
-** Evento Google+
-** Meetup coSfera
 
-== Organización de la reunión ==
+  == Coordenadas ==
+  * '''Fecha''':  28 de Septiembre de 2016
+  * '''Hora''': 18:30
+  * Lugar: [http://www.cosfera.es/ coSfera Centro] Avenida de Cervantes, 6, Córdoba, España. [http://www.openstreetmap.org/?mlat=37.88830&mlon=-4.78424#map=18/37.88830/-4.78424 OSM]  [https://es.foursquare.com/v/cosfera-centro-c%C3%B3rdoba/528ca1e0498ede0a227d2ab7 Foursquare] [http://www.yelp.es/biz/cosfera-centro-c%C3%B3rdoba Yelp]
+  * '''Inscripción (no es necesaria)'''
+  ** Evento en Facebook
+  ** Evento Google+
+  ** Meetup coSfera
 
-Seguir tema en [http://osgeo-org.1560.x6.nabble.com/Reunion-de-28-de-Septiembre-td5283753.html lista de correo]
+  == Organización de la reunión ==
+
+  Seguir tema en [http://osgeo-org.1560.x6.nabble.com/Reunion-de-28-de-Septiembre-td5283753.html lista de correo]
+  
 '''
