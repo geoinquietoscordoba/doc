@@ -54,21 +54,20 @@ Por ejemplo:
 - Lista numerada # Elemento de la lista
 - Archivo incrustado [[File:Ejemplo.png|thumbnail|Texto de la leyenda]]
 
-En este formato el siguiente texto
+En este formato, el siguiente texto
 
-'''
+![Texto](./img/wikicode.png "Texto")
 
-  == Coordenadas ==
-  * '''Fecha''':  28 de Septiembre de 2016
-  * '''Hora''': 18:30
-  * Lugar: [http://www.cosfera.es/ coSfera Centro] Avenida de Cervantes, 6, Córdoba, España. [http://www.openstreetmap.org/?mlat=37.88830&mlon=-4.78424#map=18/37.88830/-4.78424 OSM]  [https://es.foursquare.com/v/cosfera-centro-c%C3%B3rdoba/528ca1e0498ede0a227d2ab7 Foursquare] [http://www.yelp.es/biz/cosfera-centro-c%C3%B3rdoba Yelp]
-  * '''Inscripción (no es necesaria)'''
-  ** Evento en Facebook
-  ** Evento Google+
-  ** Meetup coSfera
+Se visualizaría de esta forma
 
-  == Organización de la reunión ==
+![Previssualización](./img/wikicode.png "Previssualización")
 
-  Seguir tema en [http://osgeo-org.1560.x6.nabble.com/Reunion-de-28-de-Septiembre-td5283753.html lista de correo]
-  
-'''
+Una vez realizado los cambios deben ser guardados. haciendo clik en el botón **Guardar página**
+
+![Guardar](./img/wikiguardar.png "Guardar")
+
+## Subir archivos
+
+## Crear páginas nuevas
+
+
